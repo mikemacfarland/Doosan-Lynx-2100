@@ -1,0 +1,7 @@
+# this file allows git version control to ignore all files in this directory except for CNC programs
+
+/USB files
+/ADVANCED 30 series TC PROGRAMMING.pdf
+/System Volume Information/
+
+# Use git to control versions of your programs and other files not managed by Solidworks PDM 
